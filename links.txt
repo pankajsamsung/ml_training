@@ -1,0 +1,9 @@
+https://towardsdatascience.com/machine-learning-fundamentals-via-linear-regression-41a5d11f5220
+https://en.wikipedia.org/wiki/Error_function
+https://en.wikipedia.org/wiki/Cost_function
+https://www.myaccountingcourse.com/accounting-dictionary/cost-function
+https://en.wikipedia.org/wiki/Normal_distribution
+https://www.thoughtco.com/cost-function-definition-1147988
+https://www.cs.princeton.edu/~schapire/talks/picasso-minicourse.pdf
+https://medium.com/@sifium/machine-learning-types-of-classification-9497bd4f2e14
+https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11
