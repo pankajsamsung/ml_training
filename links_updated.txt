@@ -1,0 +1,40 @@
+https://towardsdatascience.com/machine-learning-fundamentals-via-linear-regression-41a5d11f5220
+https://en.wikipedia.org/wiki/Error_function
+https://en.wikipedia.org/wiki/Cost_function
+https://www.myaccountingcourse.com/accounting-dictionary/cost-function
+https://en.wikipedia.org/wiki/Normal_distribution
+https://www.thoughtco.com/cost-function-definition-1147988
+https://www.cs.princeton.edu/~schapire/talks/picasso-minicourse.pdf
+https://medium.com/@sifium/machine-learning-types-of-classification-9497bd4f2e14
+https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11
+
+
+https://public.etherpad-mozilla.org/p/0218
+
+github.com/abulbasar/machine-learning
+github.com/abulbasar/neural-networks
+github.com/abulbasar/data
+
+Slides
+https://drive.google.com/open?id=1GgPS9BHuZWkdWHMPMey-q9xDJApBQ7kU
+
+\fileserver\Training_Material\Training_Material\ML_PR_TR\ML_Abul_TR\creditcard-fraud.csv.zip\
+
+
+Install graphviz using MSI on windows machine
+https://graphviz.gitlab.io/_pages/Download/Download_windows.html
+
+Run the following lines to generate the .dot file. est is DecisionTree trained model.
+
+from sklearn.tree import export_graphviz
+export_graphviz(est, out_file = "tree.dot", feature_names = X.columns, filled=True)
+
+Open command prompt and run
+C:/> set PATH=%PATH%;"C:\Program Files (x86)\Graphviz2.38\bin\"
+C:/> dot -Tpng tree.dot -o tree.png
+
+
+Go to Start -> Anaconda3 -> Conda Prompt
+Downgrade python to 3.6 (Tensorflow does not support 3.7 yet)
+$ conda install python=3.6 -y
+$ conda install tensorflow keras -y
